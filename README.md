@@ -1,23 +1,22 @@
-# Halo, Saya [Muhammad Siro Jammuniro]! 👋
+# Halo, Saya Muhammad Siro Jammuniro! 👋
 
-### 🚀 [Saya siswa smkn 1 Bangsri]
+### 🚀 WordPress Developer | Headless WordPress Enthusiast
 
-Selamat datang di profil GitHub saya! Saya adalah seseorang yang bersemangat dalam membangun [sebutkan minatmu, misal: aplikasi web yang aksesibel, solusi backend yang skalabel, atau UI/UX yang indah]. Saya senang belajar hal baru dan berkolaborasi dalam proyek yang bermakna.
+Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada pemanfaatan **WordPress sebagai Headless CMS**, menggabungkan fleksibilitas ekosistem WP dengan kekuatan framework modern untuk membangun aplikasi web yang cepat, skalabel, dan mudah dikelola.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <p align="left">
-  <!-- Ganti atau tambahkan badge sesuai skill kamu -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -25,40 +24,50 @@ Selamat datang di profil GitHub saya! Saya adalah seseorang yang bersemangat dal
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <!-- Ganti 'username' di URL bawah dengan username GitHub kamu yang sebenarnya -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jamz-colins&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamz-colins&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamz-colins&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="Top Languages" width="80%" />
 </p>
 
 ---
 
-### 🎯 Fokus Saat Ini
+### 🎯 Proyek Unggulan
 
-- 🔭 Sedang mengerjakan: **[Website MTs Fadlun Nafis]**
-- 🌱 Sedang mempelajari: **[WordPress]**
-- 💬 Tanya saya tentang: **[Frontend development, WordPress]**
-- 📫 Hubungi saya: **[jamun8036@gmail.com]**
+- 🏫 **[Website MTs Fadlun Nafis](#)**  
+  Pengembangan website institusi pendidikan yang responsif, terstruktur, dan mudah dikelola oleh staf non-teknis melalui dashboard WordPress yang disesuaikan.
+
+- 👟 **[E-Commerce Sepatu "Zorie"](#)**  
+  Membangun platform e-commerce yang optimal dengan fokus pada pengalaman pengguna (UX) yang mulus, performa cepat, dan manajemen produk yang efisien.
+
+*(💡 Tips: Ganti tanda `(#)` di atas dengan link repository atau live demo proyek kamu jika sudah ada di GitHub)*
+
+---
+
+### 🌱 Fokus & Pembelajaran Saat Ini
+
+- 🔭 Sedang mendalami: **Arsitektur Headless WordPress & integrasi API modern**
+- 🌱 Terus belajar: **Ekosistem WordPress (Custom Theme, Plugin Development, & Performance Optimization)**
+- 💡 Filosofi: *"Membangun jembatan antara kemudahan manajemen konten WordPress dengan performa aplikasi web modern."*
 
 ---
 
 ### 🤝 Mari Terhubung!
 
 <p align="left">
-  <a href="https://linkedin.com/in/[username-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/Jamz-colins" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/[username-twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/mu.si.ja/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://[website-portfolio-kamu.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="jamun8036@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-> 💡 *"Kode yang baik adalah kode yang bisa dibaca oleh manusia dan dieksekusi oleh mesin."* — Martin Fowler
+> 💡 *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
