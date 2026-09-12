@@ -42,7 +42,6 @@ Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada 
 - 👟 **[E-Commerce Sepatu "Zorie"](#)**  
   Membangun platform e-commerce yang optimal dengan fokus pada pengalaman pengguna (UX) yang mulus, performa cepat, dan manajemen produk yang efisien.
 
-*(💡 Tips: Ganti tanda `(#)` di atas dengan link repository atau live demo proyek kamu jika sudah ada di GitHub)*
 
 ---
 
