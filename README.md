@@ -20,31 +20,6 @@ Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada 
 
 ---
 
-###  Statistik GitHub
-
-<p align="center">
-  <!-- GitHub Stats Card - Menggunakan layanan alternatif -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamz-colins&theme=dracula" alt="GitHub Stats" width="48%" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Jamz-colins&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Jamz-colins&theme=dracula&layout=compact" alt="Top Languages" width="80%" />
-</p>
-
-<p align="center">
-  <!-- Stats Ringkas -->
-  <img src="https://github-readme-stats-jamz-colins.vercel.app/api?username=Jamz-colins&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Detailed Stats" width="45%" />
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jamz-colins&theme=dracula" alt="Commit Stats" width="45%" />
-</p>
-
----
-
 ###  Proyek Unggulan
 
 - 🏫 **[Website MTs Fadlun Nafis](#)**  
