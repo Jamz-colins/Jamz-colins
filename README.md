@@ -42,17 +42,17 @@ Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada 
 
 ### 🤝 Mari Terhubung!
 
-<p align="left">
-  <a href="https://github.com/Jamz-colins" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<div align="left">
+  <a href="https://github.com/Jamz-colins" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border: 0; margin: 0;" />
   </a>
-  <a href="https://www.instagram.com/mu.si.ja/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/mu.si.ja/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border: 0; margin: 0;" />
   </a>
-  <a href="jamun8036@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="jamun8036@gnail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border: 0; margin: 0;" />
   </a>
-</p>
+</div>
 
 ---
 
