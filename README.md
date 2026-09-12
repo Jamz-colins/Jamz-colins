@@ -14,27 +14,38 @@ Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub
+###  Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jamz-colins&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jamz-colins&theme=dracula&hide_border=true&bg_color=0d1117" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Stats Card - Menggunakan layanan alternatif -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamz-colins&theme=dracula" alt="GitHub Stats" width="48%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Jamz-colins&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamz-colins&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="Top Languages" width="80%" />
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Jamz-colins&theme=dracula&layout=compact" alt="Top Languages" width="80%" />
+</p>
+
+<p align="center">
+  <!-- Stats Ringkas -->
+  <img src="https://github-readme-stats-jamz-colins.vercel.app/api?username=Jamz-colins&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="Detailed Stats" width="45%" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jamz-colins&theme=dracula" alt="Commit Stats" width="45%" />
 </p>
 
 ---
 
-### 🎯 Proyek Unggulan
+###  Proyek Unggulan
 
 - 🏫 **[Website MTs Fadlun Nafis](#)**  
   Pengembangan website institusi pendidikan yang responsif, terstruktur, dan mudah dikelola oleh staf non-teknis melalui dashboard WordPress yang disesuaikan.
@@ -42,6 +53,7 @@ Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada 
 - 👟 **[E-Commerce Sepatu "Zorie"](#)**  
   Membangun platform e-commerce yang optimal dengan fokus pada pengalaman pengguna (UX) yang mulus, performa cepat, dan manajemen produk yang efisien.
 
+*(💡 Tips: Ganti tanda `(#)` di atas dengan link repository atau live demo proyek kamu jika sudah ada di GitHub)*
 
 ---
 
