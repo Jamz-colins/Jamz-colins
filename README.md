@@ -22,7 +22,7 @@ Selamat datang di profil GitHub saya! Saya adalah pengembang yang berfokus pada 
 
 ###  Proyek Unggulan
 
-- 🏫 **[Website MTs Fadlun Nafis](#)**  
+- 🏫 **[Website MTs Fadlun Nafis](https://mts.fadlunnafis.sch.id/)**  
   Pengembangan website institusi pendidikan yang responsif, terstruktur, dan mudah dikelola oleh staf non-teknis melalui dashboard WordPress yang disesuaikan.
 
 - 👟 **[E-Commerce Sepatu "Zorie"](#)**  
